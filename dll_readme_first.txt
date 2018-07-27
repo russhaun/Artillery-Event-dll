@@ -2,7 +2,7 @@
 #These commands are all run from vs 2017 developer tools cmd prompt on win 7 due to it being the lowest in the chain(i'm sure it #can be built on other versions)
 #you can omit the full path and just use respective command at the end. i just put them here for reference
 #the included .reg file will add appropriate values in registry this MUST be imported before trying to fire events
-#line 113 in core.py in main artillery install needs to be changed ip needs to be added as input in HoneypotEvent  to look like this #HoneyPotEvent(ip)
+#line 113 in core.py in main artillery install needs to be changed ip needs to be added as input in HoneypotEvent  to look like this HoneyPotEvent(ip)
 #events.py should be copied over existing file to see changes(make a backup of original file first)
 #dll must be copied to %PROGRAMFILES(x86)%\Artillery\src\windows before triggering
 #any comments are welcome about this file as i am a newb when it comes to c
