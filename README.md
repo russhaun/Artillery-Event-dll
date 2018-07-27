@@ -10,3 +10,8 @@ ArtilleryStart - triggered on startup. eventid 100 informational
 ArtilleryStop - triggered when shutdown. eventid 101 informational
 
 HoneypotAttack - triggered when honeypot is accessed. eventid 200 Warning
+
+
+# How to install
+
+Please read dll_readme_first.txt for instructions on how to install.
