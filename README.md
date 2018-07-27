@@ -1,7 +1,7 @@
 # Artillery-Event-dll
 Event dll for use with Artillery from Binary Defense
 
-# Windows_events
+# Windows-events
 events included with this release. All events are in Application log for now
 more will be added as program grows on windows side
 
