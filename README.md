@@ -2,8 +2,9 @@
 Event dll for use with Artillery from Binary Defense
 
 # Windows-events
-events included with this release. All events are in Application log for now
-more will be added as program grows on windows side
+All events are in Application log for now more will be added as program grows on windows side
+
+events included with this release.
 
 ArtilleryStart - triggered on startup. eventid 100 informational
 
