@@ -1,6 +1,7 @@
 #these are the commands used to build dll. this dll works on all versions of windows tested clients:7/8/10  server:08/12/16
 #These commands are all run from vs 2017 developer tools cmd prompt on win 7 due to it being the lowest in the chain(i'm sure it #can be built on other versions)
 #you can omit the full path and just use respective command at the end. i just put them here for reference
+#if you have already installed and run artilllery. delete all .pyc files located in src\__pycache__ directory of main artlliery install to avoid issues
 #the included .reg file will add appropriate values in registry this MUST be imported before trying to fire events
 #line 113 in core.py in main artillery install needs to be changed ip needs to be added as input in HoneypotEvent  to look like this HoneyPotEvent(ip)
 #events.py should be copied over existing file to see changes(make a backup of original file first)
