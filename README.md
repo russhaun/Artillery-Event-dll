@@ -17,4 +17,6 @@ HoneypotAttack - triggered when honeypot is accessed. eventid 200 Warning
 
 Please read dll_readme_first.txt for instructions on how to install.
 
+or just use the included batch file MUST BE ADMIN!!!!
+
 to see a video of proccess please vist https://www.youtube.com/watch?v=n6oQDxQ2jNA
